@@ -1,0 +1,16 @@
+one:
+  follower: nathan
+  followed: lana
+  
+two:
+  follower: nathan
+  followed: mallory
+  
+three:
+  follower: lana
+  followed: nathan
+  
+four:
+  follower: archer
+  followed: nathan
+
